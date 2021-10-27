@@ -32,6 +32,8 @@ days of interactive access to a real live lab to practice SSH tunneling and port
 ## Interactive Lab
 
 The Cyber Plumber's Lab Guide and Interactive Access can be purchased [here](https://opsdisk.gumroad.com/l/cphlab).
+There is a 75% off discount for students...just send an email to
+[cph-student@opsdisk.com](mailto:cph-student@opsdisk.com) from your educational email address.
 
 ### Why purchase?
 
